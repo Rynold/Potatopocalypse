@@ -1,0 +1,13 @@
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ryan\Documents\Potatopocalypse\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Potatopocalypse\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ryan\Documents\Potatopocalypse\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ryan\Documents\Potatopocalypse\Temp\bin\Debug\UnityEngine.UI.dll
